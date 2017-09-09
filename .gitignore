@@ -1,2 +1,8 @@
 **/*.class
 **/.DS_Store
+/gaMusic/nbproject/private/
+/gaMusic/dist/
+/gaMusic/build/
+/gaMusic/gaMusic/build/
+/gaMusic/gaMusic/dist/
+/gaMusic/gaMusic/nbproject/private/
